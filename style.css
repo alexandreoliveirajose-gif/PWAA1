@@ -15,7 +15,7 @@
     
     height:100vh;
     
-    background:#0f62fe;
+    background:#52034e;
     
     }
     
@@ -23,7 +23,7 @@
     
     width:320px;
     
-    background:white;
+    background:rgb(0, 110, 255);
     
     padding:30px;
     
@@ -31,7 +31,7 @@
     
     text-align:center;
     
-    box-shadow:0 10px 20px rgba(0,0,0,.2);
+    box-shadow:0 10px 20px rgba(230, 0, 0, 0.815);
     
     }
     
